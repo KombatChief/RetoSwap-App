@@ -8,7 +8,7 @@ public static class AppConstants
     public static readonly string Network;
     public static readonly string HavenoAppName;
 
-    public const string ApplicationId = "com.haveno";
+    public const string ApplicationId = "com.retoswap";
 
     static AppConstants()
     {
